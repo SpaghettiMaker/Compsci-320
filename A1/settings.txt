@@ -1,0 +1,2 @@
+http://afsweb.ec.auckland.ac.nz
+login.cs.auckland.ac.nz
